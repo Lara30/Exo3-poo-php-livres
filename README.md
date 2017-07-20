@@ -11,7 +11,7 @@ Cette classe contiendra deux constructeurs :
 
 * Créer des méthodes d’accès et d’altération (get et set) pour les différents attributs. 
 
-* Une méthode **toString()** qui renvoie une chaîne de caractères qui décrit le livre. Si le prix d’un livre n’a pas été donné, 
+* Une méthode **__toString()** qui renvoie une chaîne de caractères qui décrit le livre. Si le prix d’un livre n’a pas été donné, 
 la **description** du livre (toString()) devra indiquer **«Prix pas encore donné »**.
 
 **Attention**, un livre peut être gratuit (0 est une valeur possible pour un prix) ; la valeur **-1** indiquera que le prix n’a pas encore été donné. 
