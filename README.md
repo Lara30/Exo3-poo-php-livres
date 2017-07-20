@@ -42,6 +42,6 @@ Vous utiliserez pour cela un tableau. Le constructeur prendra en paramètre le n
            « Livre getLivre(int) ». 
          
         d) Chercher sur l’étagère un livre repéré par son titre et son auteur. La méthode renverra la position 
-           du livre dans l’étagère (ou 0 si le livre n’y est pas). Le profil de la méthode sera. 
+           du livre dans l’étagère (ou 0 si le livre n’y est pas). 
         
         e) Supprimer des livres.      
